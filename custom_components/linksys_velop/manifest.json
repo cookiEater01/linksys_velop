@@ -4,6 +4,7 @@
   "documentation": "https://www.home-assistant.io/components/linksys_velop",
   "requirements": [],
   "dependencies": [],
-  "codeowners": ["@adamnaj"],
+  "version": "0.1.2",
+  "codeowners": ["@adamnaj", "@cookiEater01"],
   "homeassistant": "0.100.0"
 }
